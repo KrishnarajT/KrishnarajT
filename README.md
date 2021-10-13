@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=KrishnarajT&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=KrishnarajT&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnarajT&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnarajT&show_icons=true&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
