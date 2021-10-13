@@ -1,4 +1,4 @@
-### Hi there, I'm Krishnaraj Thadesar!
+### Hi there, I'm Krishnaraj Thadesar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krishnaraj-thadesar-2541451b9)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/krishnaraj_kpt)
@@ -7,8 +7,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KrishnarajT.KrishnarajT)
 
-I am a student at ![MIT World Peace University](https://mitwpu.edu.in/admissions), Currently doing B. Tech in Computer Science Engineering (Cyber Security and Forensics). 
-I love Data Science and Cyber Security, and am always looking to learn something new!
+I am a student at [MIT World Peace University](https://mitwpu.edu.in/admissions), Currently doing B. Tech in Computer Science Engineering (Cyber Security and Forensics). 
+I love Data Science and Cyber Security, and am always looking to learn something new, and Contribute to any Open Source projects and initiatives!
 
 **About Me:**
 
@@ -21,7 +21,7 @@ I love Data Science and Cyber Security, and am always looking to learn something
 </br>
 
 
-📈 **Here are mM GitHub Stats:**
+📈 **Here are my GitHub Stats:**
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=KrishnarajT&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnarajT&show_icons=true&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
