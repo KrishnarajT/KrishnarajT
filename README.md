@@ -12,7 +12,7 @@ I love Data Science and Cyber Security, and am always looking to learn something
 
 **About Me:**
 
-- 👨🏻‍💻 I’m currently working on something personal Projects;
+- 👨🏻‍💻 I’m currently working on some cool personal Projects;
 - 🚀 I’m currently learning Data Structures, Algorithms, Web Development and Unity;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: kpt.krishnaraj@gmail.com, or any of the social sites mentioned above; 
