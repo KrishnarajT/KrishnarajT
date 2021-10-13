@@ -7,8 +7,7 @@
 
 Here are My favourite Languages!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnarajT&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnarajT&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnarajT&show_icons=true&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
