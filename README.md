@@ -8,7 +8,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KrishnarajT.KrishnarajT)
 
 I am a student at [MIT World Peace University](https://mitwpu.edu.in/admissions), Currently doing B. Tech in Computer Science Engineering (Cyber Security and Forensics). 
-I love Data Science and Cyber Security, and am always looking to learn something new, and Contribute to any Open Source projects and initiatives!
+I love Data Science and Cyber Security, and am always looking to learn something new!
 
 **About Me:**
 
