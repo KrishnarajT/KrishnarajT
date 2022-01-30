@@ -25,4 +25,4 @@ I love Data Science and Cyber Security, and am always looking to learn something
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=KrishnarajT&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnarajT&show_icons=true&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[](https://github-readme-streak-stats.herokuapp.com/?user=KrishnarajT&)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KrishnarajT&)
