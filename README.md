@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/krishnaraj_kpt)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/krish11235/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/KrishnarajT)
+[Monkeytype](https://monkeytype.com/profile/brRpn8W87BW9e4Yn7vbuEMXwrk33)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KrishnarajT.KrishnarajT)
 
@@ -13,10 +14,13 @@ I love Data Science and Cyber Security, and am always looking to learn something
 **About Me:**
 
 - 👨🏻‍💻 I’m currently working on some cool personal Projects;
+- 👨 My Hobbies are Cubing, Typing, Reading and Travelling!;
 - 🚀 I’m currently learning Data Structures, Algorithms, Web Development and Unity;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: kpt.krishnaraj@gmail.com, or any of the social sites mentioned above; 
-- 📝 [Resume]()
+- 📝 [Resume](https://github.com/My-Personal-Stuff/Imp-Docs/blob/main/Krish%20Related/%5BKrishnaraj%5D%20Resume.pdf)
+
+
 
 </br>
 
