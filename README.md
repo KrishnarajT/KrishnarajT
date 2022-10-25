@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/krishnaraj_kpt)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/krish11235/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/KrishnarajT)
-[Monkeytype](https://monkeytype.com/profile/brRpn8W87BW9e4Yn7vbuEMXwrk33)
+[Monkeytype]https://monkeytype.com/profile/Krishnaraj)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KrishnarajT.KrishnarajT)
 
