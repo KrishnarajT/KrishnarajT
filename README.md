@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/krishnaraj_kpt)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/krish11235/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/KrishnarajT)
-[![MonekyType Badge](https://img.shields.io/badge/MonkeyType-Typing.Stats-rebeccapurple&?style=for-the-badge&logo=appveyor)](https://monkeytype.com/profile/Krishnaraj)
+[![MonekyType Badge](https://img.shields.io/badge/MonkeyType-Typing.Stats-rebeccapurple&?style=for-the-badge&logo=appveyor)](https://monkeytype.com/profile/KrishnarajT)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KrishnarajT.KrishnarajT)
 
 
