@@ -29,5 +29,3 @@ I love Data Science and Cyber Security, and am always looking to learn something
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=KrishnarajT&theme=material-palenight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnarajT&show_icons=true&theme=material-palenight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/KrishnarajT/KrishnarajT/blob/output/github-contribution-grid-snake.svg)
