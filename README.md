@@ -17,7 +17,7 @@ I love Data Science and Cyber Security, and am always looking to learn something
 - 👨 My Hobbies are Cubing, Typing, Reading and Travelling!;
 - 🚀 I’m currently learning Data Structures, Algorithms, Web Development and Unity;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 To contact or Know more about me and my Projects, Visit [My Website](https://krishnarajt.surge.sh)
+- 📫 To contact or Know more about me and my Projects, Visit [My Website](https://krishnaraj.vercel.app)
 
 
 </br>
